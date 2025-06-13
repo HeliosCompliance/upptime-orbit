@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ctcbanks.com
   # baseUrl: /your-repo-name
-  logoUrl: /assets/orbit_logo.svg
+  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/orbit_logo.svg
   name: Orbit Status
   introTitle: "Orbit Status Page"
   introMessage: Live system availability and incident updates for Orbit.
